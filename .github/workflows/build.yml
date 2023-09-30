@@ -23,5 +23,5 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with:
-          name: API-Mod
+          name: WoodenPlanks
           path: build/libs/*-?.?-*.jar
