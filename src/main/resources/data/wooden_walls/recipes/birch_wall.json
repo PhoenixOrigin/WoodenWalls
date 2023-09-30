@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "wooden_walls:birch_wall",
+    "count": 6
+  }
+}
