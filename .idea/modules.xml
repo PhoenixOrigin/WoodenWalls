@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WoodenWalls.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WoodenWalls.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WoodenWalls.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WoodenWalls.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.phoenix.WoodenWalls.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.phoenix.WoodenWalls.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.phoenix.WoodenWalls.test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.phoenix.WoodenWalls.test.iml" />
     </modules>
   </component>
 </project>

@@ -19,6 +19,9 @@
     ],
     "main": [
       "net.phoenix.woodenwalls.WoodenWalls"
+    ],
+    "fabric-datagen": [
+      "net.phoenix.woodenwalls.datagen.ModDatagen"
     ]
   },
   "mixins": [
